@@ -1,0 +1,22 @@
+{
+  "name": "slackgoreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessions-ttw/slackgoreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lessions-ttw/slackgoreact/issues"
+  },
+  "homepage": "https://github.com/lessions-ttw/slackgoreact#readme",
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
